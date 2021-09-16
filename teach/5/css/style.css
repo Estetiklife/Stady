@@ -1,0 +1,16 @@
+a{
+  color: green;
+  text-decoration: none;
+}
+a:hover{
+  color: red;
+  text-decoration: underline;
+}
+li:nth-child(2n){
+  color: red;
+  background-color: blue;
+}
+li:nth-child(2n+1){
+  color: green;
+  background-color: grey;
+}

@@ -5,4 +5,21 @@
 }
 .name{
   font-family: 'Merriweather', serif;
+  text-shadow: 1px 1px 0 grey;
+}
+.vid{
+  text-indent: 3em;
+}
+.fon1{
+  padding: 10px;
+  border-radius: 10px;
+}
+.fon1 > p{
+  margin: 5px 0;
+}
+.color{
+  font-style: italic;
+  color: blue;
+  font-weight:bold;
+
 }
