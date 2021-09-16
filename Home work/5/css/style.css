@@ -1,0 +1,25 @@
+body {
+  background-color: orange;
+}
+
+.t1 {
+  color: blue;
+  text-align: center;
+}
+
+.t2 {
+  color: red;
+  font-style: italic;
+}
+
+.t3 {
+  color: green;
+}
+
+.t4 {
+  margin-left: 30px;
+}
+
+.t5 {
+  margin: 20px;
+}

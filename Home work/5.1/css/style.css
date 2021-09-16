@@ -1,0 +1,40 @@
+.b1 {
+  background-color: #d245f5;
+  border: 3px solid grey;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+.t1 {
+  color: blue;
+  margin-right: 50px;
+}
+
+.read {
+  color: red;
+}
+
+.y {
+  background-color: yellow;
+}
+
+.border {
+  border: 3px dotted grey;
+}
+
+.text1 {
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+.text2 {
+  color: blue;
+  margin-left: 50px;
+  border-left: 3px solid red;
+
+}
+
+.x1 {
+  margin-left: 20px;
+  margin-right: 15px;
+}
